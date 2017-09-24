@@ -461,3 +461,35 @@ footer{width:100%;height:auto;color:#fff;margin-top:-18px;margin-bottom:9px;}
 .single-page a{color:#fff;}
 hr{border-top:1px solid #fff;}
 .single-footer{margin:0;}
+
+.contest {
+    padding: 10px;
+}
+.contest li  {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.contest li span {
+    padding: 10px;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 14px;
+}
+
+.contest li span.position {
+    background: #06A763;
+    width: 20%;
+    display: inline-block;
+}
+
+
+.contest li span.contest {
+    background: #1976D2;
+    width: 79.5%;
+    display: inline-block;
+}
+
+#contest .contest-type{
+    color: #00b0ff;
+}
