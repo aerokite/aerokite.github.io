@@ -484,7 +484,7 @@ hr{border-top:1px solid #fff;}
 }
 
 
-.contest li span.contest {
+.contest li span.contest-name {
     background: #1976D2;
     width: 79.5%;
     display: inline-block;
